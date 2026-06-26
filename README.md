@@ -145,6 +145,7 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 - [OpenAPI to TypeScript Client](https://toolsfam.com/tools/openapi-to-typescript-client) - Inspect OpenAPI JSON/YAML and create a typed fetch-client starter.
 - [GraphQL to TypeScript Types](https://toolsfam.com/tools/graphql-to-typescript-types) - Extract GraphQL object/input types into TypeScript type declarations.
 - [Env to Typed Config](https://toolsfam.com/tools/env-to-typed-config) - Turn .env examples into a typed config object and Zod validation draft.
+- [FreePNGConvert](https://freepngconvert.com) - Free in-browser WebP to PNG converter, no upload, privacy-first
 
 ## QA & Debugging
 
