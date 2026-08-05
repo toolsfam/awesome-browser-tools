@@ -214,6 +214,7 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 ## Image Tools
 
 - [Background Remover](https://toolsfam.com/tools/background-remover) - Remove image backgrounds with browser ML and export transparent PNGs.
+- [Metadata Remover](https://metadataremover.ai/) - Inspect and remove image metadata locally in the browser.
 - [Image to Text OCR](https://toolsfam.com/tools/image-to-text-ocr) - Extract text from screenshots, scans and photos with browser-based OCR.
 - [Image Watermark Tool](https://toolsfam.com/tools/image-watermark-tool) - Add text watermarks to images with position, opacity and size controls.
 - [Screenshot Beautifier](https://toolsfam.com/tools/screenshot-beautifier) - Turn plain screenshots into polished shareable images.
