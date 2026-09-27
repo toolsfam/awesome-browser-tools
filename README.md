@@ -251,6 +251,7 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 - [Compress Image to 200KB](https://toolsfam.com/tools/compress-image-to-200kb) - Reduce an image toward a 200KB target.
 - [Compress Image to 500KB](https://toolsfam.com/tools/compress-image-to-500kb) - Reduce an image toward a 500KB target.
 - [Crop Image](https://toolsfam.com/tools/crop-image) - Crop images by pixel area for thumbnails and previews.
+- [File Converter](https://fileontap.com/) - Convert and compress HEIC/WebP/PNG/JPG and handle image↔PDF locally in the browser; no upload or account. `local-first`
 
 ## SEO & Web Tools
 
