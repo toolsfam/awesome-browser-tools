@@ -358,6 +358,7 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 - [Discount Calculator](https://toolsfam.com/tools/discount-calculator) - Calculate sale price, savings, original price and final price.
 - [Time Duration Calculator](https://toolsfam.com/tools/time-duration-calculator) - Add, subtract and compare time durations.
 - [BMI Calculator](https://toolsfam.com/tools/bmi-calculator) - Calculate body mass index with metric and imperial inputs.
+- [Side Hustle Calculators](https://www.monthlyincomebooster.com/calculators/) - Free calculators for freelance rates, gig driver pay, marketplace fees and self-employment tax.
 
 ## Converters
 
