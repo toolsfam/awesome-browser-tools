@@ -342,6 +342,7 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 ## Generators
 
 - [Address Generator](https://toolsfam.com/tools/address-generator) - Generate realistic global test addresses with country presets and exports.
+- [Olutil Teach Tools](https://teach.olutil.com/) - Free browser-based teaching generators: worksheets, flashcards, quizzes, bingo cards.
 - [Phone Number Generator](https://toolsfam.com/tools/phone-number-generator) - Create realistic phone numbers for mockups and form QA.
 - [Name Generator](https://toolsfam.com/tools/name-generator) - Generate realistic names for test users, demo data and personas.
 - [Username Generator](https://toolsfam.com/tools/username-generator) - Generate clean username ideas with style controls and bulk export.
@@ -352,6 +353,8 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 
 ## Calculators
 
+- [Olutil Pet Tools](https://pet.olutil.com/) - Free browser-based pet calculators: dog/cat age, calories, feeding, dosage.
+- [Olutil Plant Tools](https://plant.olutil.com/) - Free browser-based plant and garden calculators: watering, fertilizer, frost dates, germination.
 - [Percentage Calculator](https://toolsfam.com/tools/percentage-calculator) - Calculate percentages, percent change and reverse percentage.
 - [Age Calculator](https://toolsfam.com/tools/age-calculator) - Calculate exact age in years, months and days.
 - [Date Difference Calculator](https://toolsfam.com/tools/date-difference-calculator) - Find days, weeks, months and years between two dates.
@@ -366,6 +369,7 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 - [Celsius to Fahrenheit](https://toolsfam.com/tools/celsius-to-fahrenheit) - Convert Celsius to Fahrenheit.
 - [MB to GB](https://toolsfam.com/tools/mb-to-gb) - Convert megabytes to gigabytes.
 - [Length Converter](https://toolsfam.com/tools/length-converter) - Convert meters, kilometers, miles, feet, inches, centimeters and yards.
+- [Olutil Cook Tools](https://cook.olutil.com/) - Free browser-based cooking converters and calculators: volume/weight, oven temperature, recipe scaling.
 - [Weight Converter](https://toolsfam.com/tools/weight-converter) - Convert kilograms, grams, pounds, ounces and stones.
 - [Temperature Converter](https://toolsfam.com/tools/temperature-converter) - Convert Celsius, Fahrenheit and Kelvin.
 - [Data Storage Converter](https://toolsfam.com/tools/data-storage-converter) - Convert bytes, KB, MB, GB, TB and binary units.
