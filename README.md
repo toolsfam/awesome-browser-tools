@@ -352,6 +352,7 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 
 ## Calculators
 
+- [Calculation Hub Percentage Calculator](https://calculation-hub.com/math/percentage) - Free percentage, part, and total calculations with explained formulas; no login required.
 - [Percentage Calculator](https://toolsfam.com/tools/percentage-calculator) - Calculate percentages, percent change and reverse percentage.
 - [Age Calculator](https://toolsfam.com/tools/age-calculator) - Calculate exact age in years, months and days.
 - [Date Difference Calculator](https://toolsfam.com/tools/date-difference-calculator) - Find days, weeks, months and years between two dates.
