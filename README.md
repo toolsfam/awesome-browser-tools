@@ -251,6 +251,7 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 - [Compress Image to 200KB](https://toolsfam.com/tools/compress-image-to-200kb) - Reduce an image toward a 200KB target.
 - [Compress Image to 500KB](https://toolsfam.com/tools/compress-image-to-500kb) - Reduce an image toward a 500KB target.
 - [Crop Image](https://toolsfam.com/tools/crop-image) - Crop images by pixel area for thumbnails and previews.
+- [PixelArtHive](https://pixelarthive.com/) - Convert images to pixel art and upscale pixel graphics with local-first browser processing.
 
 ## SEO & Web Tools
 
